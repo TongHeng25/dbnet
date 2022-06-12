@@ -1,0 +1,5 @@
+Just submit a <.zip> file, only one folder in the zip file, which includes all <.txt> test result files.
+The name of the zip file and the folder name inside it should be consistent.
+The prefix of the txt file name should be consistent with the prefix of the iamge name.For example: image name“LB1xbbUGVX.jpg”, txt name“LB1xbbUGVX.txt”.
+sample_task2.zip is the sample of submission file for Taks 2.
+You have to send results of standard format, otherwise, your results will not be evaluated.
